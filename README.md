@@ -13,6 +13,6 @@ Let's use iwctl:
 ```station wlan0 scan```\
 ```station wlan0 get-networks```\
 ```station wlan0 connect wifi-name```\
-```station wlan0 show```\
+```station wlan0 show```
 
-```ping www.google.com```\
+```ping www.google.com```
