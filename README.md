@@ -136,11 +136,11 @@ Uncomment the line under: #Uncomment to allow members of group wheel to execute 
 
 Once you reboot you can do theses optional steps:
 
-## Let's fix Keyboard
+## Let's fix French Keyboard
 
 ```localectl set-x11-keymap fr```
 
-## Let's fix touchpad
+## Let's fix Your touchpad 
 ```gsettings set org.gnome.desktop.peripherals.touchpad click-method areas```
 
 THE END. Now it is time to enjoy Arch Linux ;)
