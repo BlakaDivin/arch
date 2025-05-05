@@ -82,7 +82,7 @@ Write a hostname, example: archlinux
 
 ## Let's install network components
 
-```pacman -S networkmanager wpa_supplicant wireless_tools```
+```pacman -S networkmanager wpa_supplicant wireless_tools```\
 ```systemctl enable NetworkManager```
 
 ## Let's install CPU ucode
