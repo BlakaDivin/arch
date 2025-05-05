@@ -1,5 +1,4 @@
-# arch
-Arch Linux Installation Guide
+# Arch Linux Installation Guide
 
 Using iwctl to connect to wifi:
 
@@ -16,3 +15,7 @@ Let's use iwctl:
 ```station wlan0 show```
 
 ```ping www.google.com```
+
+Once you are connected we can begin with installation :)
+
+
